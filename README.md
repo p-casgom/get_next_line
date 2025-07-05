@@ -22,12 +22,15 @@ character.
 
 ### Learning process:
 
-Key things learned in this project:
+Key things learned from this project:
 
-- Memory management.
+- Get to know better `read`, `malloc`, and `free`.
 - Static variables.
+- Memory management.
 - Code structuring.
 - Approaching problems through metaphors.
+
+The first challenge was trying to understand static variables. The directory called Version0 in this repository showcases my first approach to the project using a static integer (later to become a static *char). I also struggled to understand the read function, as initially (also in Version0) I used a 1 byte buffer, and ............
 
 The [42 Get Next Line Guide (String Approach)](https://medium.com/@lannur-s/gnl-c3cff1ee552b) series of articles were extremely helpful for me to understand how to approach **get_next_line**, i.e., structuring the project, proper memory management, and creative thinking/problem-solving. I must give credit to the writer not just for her amazing article, but also for the approach she took, as I implemented it on my own project, and some of my functions are based on her own original code.
 
