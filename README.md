@@ -17,6 +17,7 @@ reading from the standard input.
 except when the end of the file is reached and the file does not end with a \n
 character.
 - Add all the helper functions you need in the get_next_line_utils.c file.
+- Because you will have to read files in get_next_line(), add this option to your compiler call: -D BUFFER_SIZE=n. It will define the buffer size for read().
 - Allowed external functions: read, malloc, free.
 
 ### Learning process:
