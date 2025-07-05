@@ -21,6 +21,13 @@ character.
 
 ### Learning process:
 
+Key things learned in this project:
+
+- Memory management.
+- Static variables.
+- Code structuring.
+- Approaching problems through metaphors.
+
 The [42 Get Next Line Guide (String Approach)](https://medium.com/@lannur-s/gnl-c3cff1ee552b) series of articles were extremely helpful for me to understand how to approach **get_next_line**, i.e., structuring the project, proper memory management, and creative thinking/problem-solving. I must give credit to the writer not just for her amazing article, but also for the approach she took, as I implemented it on my own project, and some of my functions are based on her own original code.
 
 During this project I also came across the term ["memory-ownership"](https://stackoverflow.com/questions/60046802/understanding-memory-ownership-models-in-c). This concept has been helpful for me to understand and appreciate programmers' decisions for creating specific functions, and which of these take care of allocating and/or freeing memory. This was crucial for me to avoid memory leaks and double freeing.
