@@ -24,7 +24,7 @@ character.
 
 Key things learned from this project:
 
-- Get to know better `read`, `malloc`, and `free`.
+- Become more comfortable with `read`, `malloc`, and `free`.
 - Static variables.
 - Memory management.
 - Code structuring.
