@@ -30,7 +30,7 @@ Key things learned from this project:
 - Code structuring.
 - Approaching problems through metaphors.
 
-The first challenge was trying to understand static variables. The directory called version0 in this repository showcases my first approach to the project using a static integer (later to become a static *char). I also struggled to understand the read function, as initially (also in version0) I used a 1 byte buffer, and dealt with the buffer offset manually. This of course defeats the purpose of allowing the buffer size to vary (a key project requirement), so I had to think of a new approach.
+The first challenge was trying to understand static variables. The directory called [version0](/version0) in this repository showcases my first approach to the project using a static integer (later to become a static *char). Here I also struggled to understand the read function, as I used a 1 byte buffer, and dealt with the buffer offset manually. This of course defeats the purpose of allowing the buffer size to vary (a key project requirement), so I had to think of a new approach.
 
 The [42 Get Next Line Guide (String Approach)](https://medium.com/@lannur-s/gnl-c3cff1ee552b) series of articles were extremely helpful for me to understand how to approach **get_next_line**, i.e., structuring the project, proper memory management, and creative thinking/problem-solving. I must give credit to the writer not just for her amazing article with vivid metaphors, but also for the approach she took, as I implemented it on my own project, and some of my functions are based on her own original code.
 
