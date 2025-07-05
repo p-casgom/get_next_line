@@ -38,6 +38,8 @@ During this project I came across the term ["memory-ownership"](https://stackove
 
 ### Testing:
 
-gnlTester, fsoares. See [Francinette](https://github.com/WaRtr0/francinette-image).
+- My own test file available in this repository.
+
+- gnlTester, fsoares. See [Francinette](https://github.com/WaRtr0/francinette-image).
 
 *Didn't pass francinette --strict
