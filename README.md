@@ -38,7 +38,7 @@ During this project I came across the term ["memory-ownership"](https://stackove
 
 ### Testing:
 
-- My own test file available in this repository.
+- My own [test file](/test_get_next_line) and [bonus test file](/test_get_next_line_bonus)available in this repository.
 
 - gnlTester, fsoares. See [Francinette](https://github.com/WaRtr0/francinette-image).
 
